@@ -8,6 +8,7 @@ AGN
 AHCI
 Alienware
 Anthy
+AnyDesk
 AOSP
 AppImage
 Asus
@@ -51,6 +52,7 @@ cli
 CLion
 clr
 cmake
+CN
 Codespell
 conf
 config
@@ -71,6 +73,8 @@ datacenter
 Datagrip
 DCP
 debian
+decrypt
+decrypted
 decrypting
 deduplicating
 deps
@@ -144,6 +148,7 @@ gz
 hangul
 Haruna
 HL
+homeserver
 HoN
 HoNClient
 hostnames
@@ -155,6 +160,7 @@ httpd's
 https
 Hyphenator
 ibus
+IBus
 IdeaPad
 ie
 IME
@@ -199,6 +205,7 @@ libsplit
 LIBSUFFIX
 Lifebook
 lineageos
+LineageOS
 linters
 linux
 Logitech
@@ -206,11 +213,13 @@ loopback
 lto
 lts
 LUKS
+lutris
 Lutris
 LVM
 Macbook
 MacBookPro
 macOS
+maintainership
 Maintainership
 Makefile
 Markus
@@ -228,6 +237,7 @@ Misspelled words:
 mkdocs
 MOC
 Mojang
+MOK
 Moneydance
 monorepo
 MPV
@@ -237,6 +247,7 @@ multirepo
 MultiWriter
 natively
 necromancing
+Nemo
 Neovim
 Netgear
 NeutrinoRDP
@@ -257,6 +268,7 @@ OceanAudio
 OpenCollective
 OpenGL
 OpenJDK
+OpenJFX
 openrazer
 packagename
 PCI
@@ -274,6 +286,7 @@ pkgconfigs
 pkgfiles
 Plex
 PNG
+Podman
 Podman's
 PomoDoneApp
 Portege
@@ -285,11 +298,13 @@ pre
 prebuilt
 prerelease
 Presario
+Probook
 PRs
 PTZ
 PulseAudio
 py
 pyc
+Pycharm
 QCA
 qmake
 qml
@@ -314,6 +329,7 @@ repo
 repos
 reqs
 Retroarch
+rhboot
 Rhythmbox
 Roccat
 ROG
@@ -339,11 +355,13 @@ SEvB
 sha
 shannon
 SiteTheme
+SL
 smb
 SMB
 smbd
 softwares
 solbuild
+solus
 Solus
 Solus's
 soundfont
@@ -352,6 +370,7 @@ Spideroak
 Spotify
 src
 SSD
+SSID
 sta
 statusline
 statuslines
@@ -371,6 +390,7 @@ Synology
 systemctl
 systemd
 TeamViewer
+Tecra
 testparm
 th
 ThemeProvider
@@ -424,6 +444,7 @@ VLC
 vm
 VMs
 VMWare
+VNC
 vncserver
 vNUM
 Voikko
@@ -433,10 +454,12 @@ Vulkan
 waf
 wayland
 WB
+WebStorm
 Wi
 wikipedia
 WIP
 WirePlumber
+wireshark
 Wireshark
 Wireshark
 workdir
