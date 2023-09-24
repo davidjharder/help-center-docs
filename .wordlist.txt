@@ -398,6 +398,7 @@ thinkpad
 ThinkPad
 TigerVNC
 timeframe
+titlebar
 tmux
 TODO
 toolchain
