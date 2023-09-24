@@ -264,7 +264,7 @@ nvc
 nvidia
 nvm
 nvme
-OceanAudio
+OcenAudio
 OpenCollective
 OpenGL
 OpenJDK
