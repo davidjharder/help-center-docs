@@ -10,10 +10,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: streetsidesoftware/cspell-action@v5
         with:
-        files: ''
-        root: 'docs/'
-        inline: warning
-        strict: false
-        incremental_files_only: true
-        config: '.cspell.json'
-        verbose: false
+          files: ''
+          root: 'docs/'
+          inline: warning
+          strict: false
+          incremental_files_only: true
+          config: '.cspell.json'
+          verbose: false
