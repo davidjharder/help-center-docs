@@ -1,10 +1,9 @@
 name: 'Check spelling'
 on:
   pull_request:
-  push:
 
 jobs:
-  spellcheck: # run the action
+  spellcheck:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
