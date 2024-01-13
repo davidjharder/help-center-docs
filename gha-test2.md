@@ -2,9 +2,8 @@
 
 This paragrragh has some spellling errors
 
+and some extra line _breaks_ and things which will be changed by prettier
 
-and some extra line *breaks* and things which will be changed by prettier
-
-| This | Table | Is |
-| --- | --- | --- |
-| not | formatted | yet |
+| This | Table     | Is  |
+| ---- | --------- | --- |
+| not  | formatted | yet |
