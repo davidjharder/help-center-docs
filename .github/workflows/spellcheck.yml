@@ -30,5 +30,6 @@ jobs:
       - name: Prettify code
         uses: creyD/prettier_action@v4.3
         with:
+          github_token: ${{ secrets.CSPELL_TOKEN }}
           prettier_options: --write **/*.{md,mdx}
           only_changed: True
