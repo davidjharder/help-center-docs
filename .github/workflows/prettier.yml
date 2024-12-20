@@ -1,20 +1,19 @@
-name: "Format with Prettier"
+name: autofix-prettier
 on:
   pull_request:
+  push:
+    branches: [ "master" ]
+permissions:
+  contents: read
 
 jobs:
-  prettier:
+  autofix:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          fetch-depth: 0
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
 
-      - name: Prettify code
-        uses: creyD/prettier_action@v4.3
-        with:
-          prettier_options: --write **/*.{md,mdx}
-          only_changed: True
+      - run: npm ci
+      - run: npx prettier --write .
+
+      - uses: autofix-ci/action@ff86a557419858bb967097bfc916833f5647fa8c
