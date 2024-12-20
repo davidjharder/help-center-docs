@@ -19,6 +19,12 @@ The DevLog has been setup as a separate entity to the [Solus Blog](https://getso
 
 It is hoped that this will be used to help communicate what's going on in Solus such that our short-term and medium-term progress, goals, and ambitions are less of a black box to the outside world.
 
+* What *about here*
+* *
+
+
+
+
 Additionally, we believe it will help provide context to any of our murmurings for any users who keep an eye on the [getsolus](https://github.com/getsolus/) GitHub organization page and the [Solus](https://matrix.to/#/#solus:matrix.org) Matrix channels.
 
 Hope to see you back at this space soon with more content!
